@@ -1,0 +1,2 @@
+20240423	21:38:48	349e7b84-51f5-470f-9d13-43aeffecca17	ValidationError: Products validation failed: name: Path `name` is required., price: Path `price` is required., description: Path `description` is required.	POST	/api/createProduct	undefined
+20240423	21:39:31	603a8d1d-6a92-4402-86de-7444e4ff763c	ValidationError: Products validation failed: name: Path `name` is required., price: Path `price` is required., description: Path `description` is required.	POST	/api/createProduct	undefined
